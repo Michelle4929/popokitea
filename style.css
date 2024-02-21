@@ -1,0 +1,96 @@
+#top-bar {
+  color: white;
+  background-color: hotpink;
+  display: block;
+  position: relative;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+a.link{
+  color: lightyellow;
+  background-color: hotpink;
+}
+
+#second-bar {
+  padding-bottom: 25px;
+}
+
+#home-link {
+  text-decoration-line: none;
+  color: green;
+}
+
+#shop-link {
+  text-decoration-line: none;
+  color: black;
+}
+
+#FAQ-link {
+  text-decoration-line: none;
+  color: black;
+}
+
+#text-image1{
+  position: absolute;
+  left: 250px;
+  bottom: 450px;
+  width: 35%;
+  font-size: 35px;
+}
+
+#text-image2{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+  width: 30%;
+  font-size: 150px;
+}
+
+#text-image3{
+  position: absolute;
+  left: 250px;
+  bottom: 240px;
+  width: 38%;
+}
+
+#text-image4{
+  position: absolute;
+  left: 250px;
+  bottom: 175px;
+  width: 15%
+}
+
+#button1 {
+  display: inline-block;
+}
+
+#text2{
+  color: green;
+  font-size: 75px;
+}
+
+#text1 {
+  display: inline-block;
+}
+
+#text-color {
+  color: green;
+}
+
+#text-color1 {
+  color: green;
+}
+
+#text-color2 {
+  color: green;
+}
+
+#text-color3 {
+  color: green;
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
